@@ -8,7 +8,7 @@ public class CheckIfPalindrome {
         int length;
         Scanner scn = new Scanner(System.in);
 
-        System.out.println("Enter string, PALINDROME test!...");
+        System.out.println("Enter number or string, PALINDROME test!...");
         original = scn.nextLine();
         length = original.length();
 
