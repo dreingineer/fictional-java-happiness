@@ -7,10 +7,11 @@ public class UsingVarargs {
         String item2 = "Oranges";
         String item3 = "Pears";
         String[] shopping = {"Bread", "Milk", "Eggs", "Bananas"};
-        printShoppingList(item1, item2);
-        printShoppingList(item1, item2, item3);
-        printShoppingList(shopping);
-        printShoppingList("Bread", "Milk2", "Eggs", "Bananas");
+//        printShoppingList(item1, item2);
+//        printShoppingList(item1, item2, item3);
+//        printShoppingList(shopping);
+//        printShoppingList("Bread", "Milk2", "Eggs", "Bananas");
+        printShoppingList("test");
     }
 
     //using varargs, can accept variable inputs
